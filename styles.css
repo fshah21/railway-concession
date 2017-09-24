@@ -1,0 +1,113 @@
+body{
+     margin-left:auto;
+    margin-right:auto;
+    max-width: 500px;
+    background: #D2E9FF;
+    padding: 20px 20px 20px 20px;
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #666;
+    background: #D2E9FF;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+h1{
+    font: 24px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding: 10px 10px 10px 20px;
+    display: block;
+    background: #C0E1FF;
+    border-bottom: 1px solid #B8DDFF;
+    margin: -20px -20px 15px;
+    text-align: center;
+}
+input[type="text"],input[type="radio"]{
+    color: #888;
+    width: 70%;
+    padding: 0px 0px 0px 5px;
+    border: 1px solid #C5E2FF;
+    background: #FBFBFB;
+    outline: 0;
+    -webkit-box-shadow:inset 0px 1px 6px #ECF3F5;
+    box-shadow: inset 0px 1px 6px #ECF3F5;
+    font: 200 12px/25px Arial, Helvetica, sans-serif;
+    height: 30px;
+    line-height:15px;
+}
+label>span {
+    float: left;
+    margin-top: 10px;
+    color: #5E5E5E;
+    margin-left: 25%;
+}
+label {
+    display: block;
+    margin: 0px 0px 5px;
+}
+label>span {
+    float: left;
+    width: 20%;
+    text-align: right;
+    padding-right: 15px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+}
+#name{
+    margin-left: 135px;
+}
+#sapid{
+    margin-left: 130px;
+}
+#dept{
+    margin-left: 91px;
+}
+#year{
+    margin-left: 139px;
+}
+#add{
+    margin-left: 121px;
+}
+#from{
+    margin-left: 140px;
+}
+#to{
+    margin-left: 159px;
+}
+#st{
+    margin-left: 417px;
+}
+#nd{
+    margin-left: 417px;
+}
+#one{
+    margin-left: 417px;
+}
+#two{
+    margin-left: 417px;
+}
+#date{
+    margin-left: 35px;
+}
+button{
+     padding: 10px 30px 10px 30px;
+    border: none;
+    color: #FFF;
+    box-shadow: 1px 1px 1px #4C6E91;
+    -webkit-box-shadow: 1px 1px 1px #4C6E91;
+    -moz-box-shadow: 1px 1px 1px #4C6E91;
+    text-shadow: 1px 1px 1px #5079A3;
+    background: #3090C7;
+    margin-left: 450px;
+}
+button:hover{
+    background: #3EB1DD;
+}
+form{
+    border: 1px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
